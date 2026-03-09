@@ -1,2 +1,16 @@
 docker-compose up -d
 http://localhost:5678/workflow/CdAypnWR7xBZIEPc?projectId=2K8XX85hA0oghsod
+
+
+
+curl -X PUT http://localhost:6333/collections/support_docs \
+-H "Content-Type: application/json" \
+-d '{
+ "vectors": {
+   "size": 1536,
+   "distance": "Cosine"
+ }
+}'
+
+
+curl http://localhost:6333/collections
