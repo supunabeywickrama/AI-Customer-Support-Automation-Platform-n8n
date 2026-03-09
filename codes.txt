@@ -14,3 +14,6 @@ curl -X PUT http://localhost:6333/collections/support_docs \
 
 
 curl http://localhost:6333/collections
+
+
+docker exec -it ai-customer-support-automation-platform-n8n_postgres_1 psql -U support -d supportdb
