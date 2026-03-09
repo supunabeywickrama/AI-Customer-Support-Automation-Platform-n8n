@@ -1,0 +1,11 @@
+Password Reset:
+To reset your password, click "Forgot Password" on the login page and follow the instructions.
+
+Refund Policy:
+Refunds are processed within 5 business days after approval.
+
+Order Tracking:
+Customers can track orders using the tracking link sent via email.
+
+Technical Support:
+If the app is not working, try restarting the application or clearing cache.

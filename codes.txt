@@ -1,0 +1,2 @@
+docker-compose up -d
+http://localhost:5678/workflow/CdAypnWR7xBZIEPc?projectId=2K8XX85hA0oghsod
