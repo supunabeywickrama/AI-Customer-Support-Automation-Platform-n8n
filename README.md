@@ -13,6 +13,10 @@ The platform automatically processes customer requests, retrieves relevant knowl
 This project demonstrates how modern AI systems can automate **customer support workflows** similar to real platforms like **Zendesk or Intercom**, while integrating **LLMs, vector search, and workflow automation**.
 
 ---
+[![Watch Demo Video](https://img.shields.io/badge/▶_WATCH_DEMO_VIDEO-FF0000?style=for-the-badge)](https://drive.google.com/file/d/1ouid1EKDPIaM0IV5zhuvKV8mZz0RuQQs/view?usp=sharing)
+
+---
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/362a1626-5dda-4f78-8192-e2db63f5da4a" />
 
 ---
