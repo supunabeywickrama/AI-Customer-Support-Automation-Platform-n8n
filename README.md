@@ -213,14 +213,6 @@ created_at
 
 ---
 
-## 🚀 Future Improvements
-
-- **📊 AI Analytics Dashboard (Grafana):** Metrics on tickets per day, angry customers, average satisfaction score, and most common issues.
-- **📥 Automatic Knowledge Loader:** Ingest knowledge directly from PDFs, Website FAQs, Notion docs, and Google Docs.
-- **🔔 Slack/Discord Support Alerts:** Real-time notifications for critical support issues.
-
----
-
 ## 🎓 Learning Outcomes
 
 This project demonstrates practical experience with:
